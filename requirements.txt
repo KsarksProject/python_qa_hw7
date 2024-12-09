@@ -1,0 +1,6 @@
+openpyxl==3.1.2
+PyPDF2==3.0.1
+fpdf==1.7.2
+pytest==7.4.0
+
+pandas~=2.2.3
